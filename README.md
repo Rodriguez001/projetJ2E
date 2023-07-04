@@ -9,7 +9,7 @@ trouver le vol idéal que de gérer sa compagnie aérienne.
 Le rapport présentant les changements depuis la soutenance
 (il y en a beaucoup) est présent dans le dossier `Document`. 
 
-https://github.com/ShaitanLyss/projetJEE/blob/main/Documents/Rapport%20JEE.pdf
+https://github.com/Rodriguez001/projetJEE/blob/main/Documents/Rapport%20JEE.pdf
 
 ## Utilisation
 1) Télécharger le dossier `Release`
